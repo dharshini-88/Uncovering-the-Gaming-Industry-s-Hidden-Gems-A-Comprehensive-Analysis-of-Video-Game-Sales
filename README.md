@@ -4,3 +4,7 @@ Story Public Link:https://public.tableau.com/views/UncoveringtheGamingIndustrysH
 
 
 Dashboard Public Link:https://public.tableau.com/views/UncoveringtheGamingIndustrysHiddenGemsAComprehensiveAnalysisofVideoGameSales_16819240493470/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+
+
+
+Video Demonstration Link:https://1drv.ms/v/s!AkqswDfRLWaalX2mzbJDqYE9POiH?e=bDwR9D
